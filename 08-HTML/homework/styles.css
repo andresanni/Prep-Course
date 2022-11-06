@@ -1,0 +1,47 @@
+h1
+    {
+        color:rgb(87, 158, 80);
+    }
+img
+    {
+        width: 400px;
+    }
+
+#thirdDiv
+    {
+        height: 600px;
+        width: 500px;
+        background-color: rgb(216, 210, 207);
+        padding: 50px;
+        border: solid 1px blue;
+    }
+#spanId
+    {
+        font-size: 18px;
+        margin: 50px;
+    }
+body
+{
+    background-image: url("https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+div
+{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+li
+{
+    list-style: none;
+}
+span
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
